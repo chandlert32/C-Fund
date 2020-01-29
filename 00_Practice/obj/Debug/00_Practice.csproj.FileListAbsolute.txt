@@ -1,0 +1,13 @@
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\00_Practice.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\00_Practice.pdb
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\obj\Debug\00_Practice.csprojAssemblyReference.cache
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\obj\Debug\00_Practice.csproj.CopyComplete
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\obj\Debug\00_Practice.dll
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\C#\CSharpFund\00_Practice\obj\Debug\00_Practice.pdb
